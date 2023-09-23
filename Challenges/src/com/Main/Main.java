@@ -57,7 +57,7 @@ public class Main {
         PigLatinTranslator(normalWord);
 
 
-        //Challenge: Write a guessing game program for numbers between 1 and 100
+        //Challenge: Write a guessing game program for numbers between 1 and 10
 
         //COMPLETED: 10 min
 
